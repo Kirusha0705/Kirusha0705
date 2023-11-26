@@ -1,7 +1,8 @@
 <h1 align="left">Hi ✌️, Мое имя Кирилл</h1>
 
 ### :man_technologist: Обо мне:
--Я начинающий Backend Developer (Python). Начал свой путь с бесплатных курсов на платформе <a href="https://stepik.org/users/459740095/profile">Stepik.org< /a>
+-Я начинающий Backend Developer (Python). 
+-Начал свой путь с бесплатных курсов на платформе <a href="https://stepik.org/users/459740095/profile"> Stepik.org </a>
 -Подверждаю знания пет-проектами
 
 
