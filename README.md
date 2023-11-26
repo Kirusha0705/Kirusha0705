@@ -8,6 +8,8 @@
 -Подтверждаю знания пет-проектами
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kirusha_ops?theme=dark&font=Tillana)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/kirusha_ops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirusha_ops" height="30" width="40" /></a>
