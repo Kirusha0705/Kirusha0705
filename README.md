@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, Мое имя Кирилл</h1>
-<h3 align="center">Junior Python Developer</h3>
+<h3 align="center">Я Junior Backend Developer (Python)</h3>
 
 - 🌱 I’m currently learning **Backend development**
 
