@@ -1,6 +1,6 @@
 <h1 align="left">Hi ✌️, Мое имя Кирилл</h1>
 
-- 👨‍💻 Обо мне:
+### :man_technologist: Обо мне:
 -Я начинающий Backend Developer (Python). 
 
 <h3 align="left">Connect with me:</h3>
