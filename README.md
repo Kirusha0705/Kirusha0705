@@ -7,6 +7,8 @@
 
 -Подтверждаю знания пет-проектами
 
+-В поисках своей первой работы на позицию Junior Backend Developer (Python)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
