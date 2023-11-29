@@ -5,7 +5,6 @@
 
 -Начал свой путь с бесплатных курсов на платформе <a href="https://stepik.org/users/459740095/profile"> Stepik.org </a>
 
--Подтверждаю знания пет-проектами
 
 -В поисках своей первой работы на позицию Junior Backend Developer (Python)
 
